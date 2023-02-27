@@ -14,6 +14,7 @@ nav ul li a {
   text-decoration: none;
   font-weight: bold;
   color: #F07DEA;
+  font-size: 1.2rem;
 }
 nav ul li a:hover {
   border-bottom: 2px solid #A460ED;
@@ -68,8 +69,22 @@ nav ul li a:hover {
 }
 #servicos .cards .card .img-container {
   padding-bottom: 2px;
-  border-bottom: 6px solid #A460ED;
 }
 #servicos .cards .card .img-container img {
   max-width: 100%;
+  border-radius: 5px;
+}
+
+#cupom {
+  background-color: #9FC9F3;
+  padding: 4rem;
+  text-align: center;
+}
+#cupom .texto {
+  color: #A460ED;
+  font-weight: bold;
+}
+#cupom .texto h2 {
+  margin: 2rem;
+  font-size: 1.7647058824rem;
 }/*# sourceMappingURL=style.css.map */

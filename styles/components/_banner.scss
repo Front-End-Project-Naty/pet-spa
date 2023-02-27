@@ -1,0 +1,10 @@
+@import '../abstract/variaveis';
+
+.banner {
+    background: url(../img/banner.png) center no-repeat;
+    min-height: 750px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

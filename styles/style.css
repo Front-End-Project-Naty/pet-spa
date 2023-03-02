@@ -41,6 +41,7 @@ nav ul li a:hover {
   margin: 1rem;
 }
 #servicos h3 {
+  color: #F07DEA;
   text-align: center;
   font-size: 2.5rem;
   margin-bottom: 80px;
@@ -132,10 +133,32 @@ footer {
   text-align: center;
   font-size: 1.5rem;
   border-top: 2px solid #F07DEA;
-  margin-top: 1rem;
   padding: 1.2rem;
   background: linear-gradient(to right, #F07DEA, #A460ED, #9FC9F3, #F07DEA);
 }
 footer i {
   color: red;
+}
+
+#curiosidades {
+  padding: 1rem;
+  text-align: center;
+  margin: 10px;
+}
+#curiosidades img {
+  width: 10%;
+}
+#curiosidades h3 {
+  color: #A460ED;
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+#curiosidades h4 {
+  color: #A460ED;
+  font-size: 1rem;
+}
+#curiosidades p {
+  margin-top: 5px;
+  color: #F07DEA;
 }/*# sourceMappingURL=style.css.map */

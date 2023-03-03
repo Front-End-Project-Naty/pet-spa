@@ -7,7 +7,7 @@ nav {
 }
 nav ul li {
   display: inline-block;
-  padding: 1rem;
+  padding: 2rem;
 }
 nav ul li a {
   text-transform: uppercase;
@@ -22,7 +22,7 @@ nav ul li a:hover {
 
 .banner {
   background: url(../img/banner.png) center no-repeat;
-  min-height: 750px;
+  min-height: 800px;
   background-size: cover;
   display: flex;
   justify-content: center;

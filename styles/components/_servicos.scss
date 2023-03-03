@@ -23,9 +23,10 @@
         .card {
             width: 360px;
             text-align: center;
+            border-bottom: 2px solid $cor-primaria;
             h5 {
                 font-size: $tamanho-do-texto / 1.5;
-                font-weight: 300;
+                font-weight: bold;
                 margin-top: 25px;
                 margin-bottom: 20px;
                 color: $cor-primaria;
@@ -35,6 +36,7 @@
                 font-weight: 300;
                 color: $cor-secundaria;
                 line-height: 1.25rem;
+                margin-bottom: 20px;
             }
             .img-container {
                 padding-bottom: 2px;

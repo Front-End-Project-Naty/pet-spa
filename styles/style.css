@@ -54,10 +54,11 @@ nav ul li a:hover {
 #servicos .cards .card {
   width: 360px;
   text-align: center;
+  border-bottom: 2px solid #F07DEA;
 }
 #servicos .cards .card h5 {
   font-size: 2rem;
-  font-weight: 300;
+  font-weight: bold;
   margin-top: 25px;
   margin-bottom: 20px;
   color: #F07DEA;
@@ -67,6 +68,7 @@ nav ul li a:hover {
   font-weight: 300;
   color: #A460ED;
   line-height: 1.25rem;
+  margin-bottom: 20px;
 }
 #servicos .cards .card .img-container {
   padding-bottom: 2px;
@@ -80,6 +82,7 @@ nav ul li a:hover {
   background-color: #9FC9F3;
   padding: 4rem;
   text-align: center;
+  border-top: 2px solid #F07DEA;
 }
 #cupom .texto {
   color: #A460ED;
@@ -143,7 +146,6 @@ footer i {
 #curiosidades {
   padding: 1rem;
   text-align: center;
-  margin: 10px;
 }
 #curiosidades img {
   width: 10%;
@@ -152,11 +154,13 @@ footer i {
   color: #A460ED;
   font-size: 1.2rem;
   font-weight: bold;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
 }
 #curiosidades h4 {
   color: #A460ED;
   font-size: 1rem;
+  margin-bottom: 10px;
 }
 #curiosidades p {
   margin-top: 5px;
